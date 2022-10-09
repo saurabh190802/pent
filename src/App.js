@@ -66,7 +66,7 @@ function App() {
       </div>
       <div style={{width:"100%",bottom:0,}}>
         <footer className="footer">
-          <p>With ❤️ from SAURABH ©️2020</p>
+          <p>With ❤️ from SAURABH ©️2022</p>
         </footer>
       </div>
     </div>
